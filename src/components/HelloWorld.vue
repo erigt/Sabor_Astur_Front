@@ -6,7 +6,7 @@
   
 </template>
 
-<style scoped>
+<style scoped lang="scss">
 
 
 
