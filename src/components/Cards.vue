@@ -5,19 +5,19 @@
 <template>
   <div id="container">
     <div class="card">
-      <img class="card-img" src="/src/assets/img/Fabada1 1.png" alt="">
+      <img class="card-img" src="/src/assets/img/home/cuchara.jpg" alt="">
       <h2>Recetas de Cuchara</h2>
     </div>
     <div class="card">
-      <img class="card-img" src="/src/assets/img/El-mejor-cachopo-de-Asturias-1920x1280-1.jpg" alt="">
+      <img class="card-img" src="/src/assets/img/home/carnes.jpg" alt="">
       <h2>Recetas de Carne</h2>
     </div>
     <div class="card">
-      <img class="card-img" src="/src/assets/img/VERDINAS-CON-MARISCO.jpg" alt="">
+      <img class="card-img" src="/src/assets/img/home/pescados.jpg" alt="">
       <h2>Recetas de Pescado</h2>
     </div>
     <div class="card">
-      <img class="card-img" src="/src/assets/img/arroz-con-leche-asturiano-receta.jpg" alt="">
+      <img class="card-img" src="/src/assets/img/home/dulces.jpg" alt="">
       <h2>Recetas de Dulces</h2>
     </div>
       
@@ -42,15 +42,19 @@
 
 #container { 
   display: flex;
-  justify-content: flex-start;
+  flex-direction:row;
   align-items: center;
+ 
+  
 
   .card {
-    width: 20%;
-    padding: 2%;
+    width: 30%;
+    padding: 1%;
+  
   }
   .card-img {
     width: 100%;
+    border-radius: 2%;
   }
 
   h2{
