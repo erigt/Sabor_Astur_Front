@@ -11,8 +11,8 @@
 
   <div class="buscador">
   <input type="text" class="form-control" placeholder="Bscar..." aria-label="Recipient's username" aria-describedby="basic-addon2">
-  
-    <button class="btn btn-outline-secondary" type="button">Click</button>
+  <button class="btn btn-outline-secondary" type="button">Click</button>
+    
   
 </div>
   

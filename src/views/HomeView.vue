@@ -11,6 +11,7 @@ import Cards from '@/components/Cards.vue';
     <Header/>
     <Home/>
     <Cards/>
+    
   </main>
 </template>
 
