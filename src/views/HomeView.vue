@@ -1,8 +1,8 @@
 <script setup>
 
 import Header from '@/components/Header.vue';
-import Home from '@/components/Home.vue';
 import Cards from '@/components/Cards.vue';
+import Home from '@/components/Home.vue';
 import Footer from '@/components/Footer.vue';
 </script>
 
@@ -10,14 +10,18 @@ import Footer from '@/components/Footer.vue';
   <main>
 
     <Header/>
-    <Home/>
     <Cards/>
+    <Home/>
     <Footer/>
     
   </main>
 </template>
 
 <style scoped lang="scss">
+
+main {
+  background-color: #FFFBF0;
+}
 
 
 
