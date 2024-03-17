@@ -11,7 +11,9 @@ import Home from './components/Home.vue';
     <div class="wrapper">
       <nav>
         <RouterLink to="/">Home</RouterLink>
-        <RouterLink to="/">Recipes</RouterLink>
+        <RouterLink to="/secction">Secction</RouterLink>
+        <RouterLink to="/recipes">Recipes</RouterLink>
+        
       </nav>
     </div>
   </header>
