@@ -1,9 +1,8 @@
 <script setup>
 
 import Header from '@/components/Header.vue';
-import Cards from '@/components/Cards.vue';
-
 import Footer from '@/components/Footer.vue';
+import RecipesDetails from '@/components/RecipesDetails.vue';
 
 </script>
 
@@ -11,7 +10,7 @@ import Footer from '@/components/Footer.vue';
   <main>
 
     <Header/>
-    <Cards/>
+    <RecipesDetails/>
     
     <Footer/>
     

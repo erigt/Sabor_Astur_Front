@@ -3,9 +3,9 @@
 </script>
 
 <template>
-    <dev class="legend">
+    <div class="legend">
         <p>“Este paseo por la gastronomía asturiana es mi pequeño homenaje a la tierra de la que me enamoré a los 14 años, tierra en la que finalmente he podido quedarme para disfrutar de su gastronomía, de sus paisajes y de su gente. Espero que disfrutes con esta selección de recetas asturianas, repletas de sabor, autenticidad y tradición.”</p>
-    </dev>
+    </div>
 
 </template>
 
