@@ -15,7 +15,7 @@
 @media (min-width: 1024px) {
 
   .legend {
-   align-items: baseline;
+   align-content: center;
     p {
       font-family: "Aclonica", 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
       font-size: 18px;
@@ -32,10 +32,5 @@
   }
  
 }
-
- 
- 
-
-
 
 </style>

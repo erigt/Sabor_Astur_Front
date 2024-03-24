@@ -36,8 +36,7 @@
     .icon img {
       width: 1.5%;
       padding: 0.2%;
-      float: left;
-      
+      float:right;
       }
 
     p {
